@@ -1,3 +1,5 @@
+Add Changes Here for the new git exercise Jan. 10, 2012
+
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
 Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, 
 laoreet mattis, massa. Sed eleifend nonummy diam. Praesent mauris ante,
